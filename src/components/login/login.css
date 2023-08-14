@@ -1,0 +1,9 @@
+.login-btn {
+  color: #ffffff !important;
+}
+@media(max-width:640px) {
+  .login-btn {
+    min-width: none !important;
+    font-size: 0.8rem !important;
+  }
+}

@@ -1,0 +1,9 @@
+@media (max-width: 790px) {
+  .msg-box {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+  .msg-inner {
+    width: 100% !important;
+  }
+}
